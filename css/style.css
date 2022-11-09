@@ -1,0 +1,1221 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 720px;
+    width: 780x;
+    background-color: #8B6244;
+    position: relative;
+}
+.a{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.b{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top: 10px;
+    left: 10px;
+    position: absolute;
+}
+.c{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 20px;
+    left: 20px;
+    position: absolute;
+}
+.d{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top: 30px;
+    left: 30px;
+    position: absolute;
+}
+.e{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 40px;
+    left: 40px;
+    position: absolute;
+}
+.f{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.g{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 60px;
+    left: 60px;
+    position: absolute;
+}
+.h{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 70px;
+    left:70px;
+    position: absolute;
+}
+.i{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 80px;
+    left: 80px;
+    position: absolute;
+}
+.j{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:90px;
+    left: 90px;
+    position: absolute;
+}
+
+.k{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 100px;
+    left:100px;
+}
+.l{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top: 110px;
+    left: 110px;
+    position: absolute;
+}
+.m{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 120px;
+    left: 120px;
+    position: absolute;
+}
+.n{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top: 130px;
+    left: 130px;
+    position: absolute;
+}
+.o{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 140px;
+    left: 140px;
+    position: absolute;
+}
+.p{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+.q{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 160px;
+    left: 160px;
+    position: absolute;
+}
+.r{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 170px;
+    left:170px;
+    position: absolute;
+}
+.s{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 180px;
+    left: 180px;
+    position: absolute;
+}
+.t{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:190px;
+    left: 190px;
+    position: absolute;
+}
+
+.u{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+.v{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 210px;
+    left: 210px;
+    position: absolute;
+}
+.w{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 220px;
+    left:220px;
+    position: absolute;
+}
+.x{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 230px;
+    left: 230px;
+    position: absolute;
+}
+.y{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:240px;
+    left: 240px;
+    position: absolute;
+}
+.z{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(218, 247, 58);
+    top:250px;
+    left: 250px;
+    position: absolute;
+}
+
+
+
+
+
+.aa{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 260px;
+    left: 260px;
+}
+.bb{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top:270px;
+    left: 270px;
+    position: absolute;
+}
+.cc{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 280px;
+    left: 280px;
+    position: absolute;
+}
+.dd{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top: 290px;
+    left: 290px;
+    position: absolute;
+}
+.ee{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 300px;
+    left: 300px;
+    position: absolute;
+}
+.ff{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 310px;
+    left: 310px;
+}
+.gg{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 320px;
+    left: 320px;
+    position: absolute;
+}
+.hh{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 330px;
+    left:330px;
+    position: absolute;
+}
+.ii{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 340px;
+    left:340px;
+    position: absolute;
+}
+.jj{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:350px;
+    left: 350px;
+    position: absolute;
+}
+
+.kk{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 360px;
+    left: 360px;
+    position: absolute;
+   
+}
+.ll{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top: 370px;
+    left: 370px;
+    position: absolute;
+}
+.mm{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 380px;
+    left: 380px;
+    position: absolute;
+}
+.nn{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top:390px;
+    left: 390px;
+    position: absolute;
+}
+.oo{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 400px;
+    left: 400px;
+    position: absolute;
+}
+.pp{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 410px;
+    left: 410px;
+}
+.qq{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 420px;
+    left: 420px;
+    position: absolute;
+}
+.rr{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 430px;
+    left:430px;
+    position: absolute;
+}
+.ss{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 440px;
+    left: 440px;
+    position: absolute;
+}
+.tt{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:450px;
+    left: 450px;
+    position: absolute;
+}
+
+.uu{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 460px;
+    left: 460px;
+}
+.vv{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 470px;
+    left: 470px;
+    position: absolute;
+}
+.ww{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 480px;
+    left:480px;
+    position: absolute;
+}
+.xx{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 490px;
+    left: 490px;
+    position: absolute;
+}
+.yy{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:500px;
+    left: 500px;
+    position: absolute;
+}
+.zz{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(218, 247, 58);
+    top:510px;
+    left: 510px;
+    position: absolute;
+}
+.aaa{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 520px;
+    left: 520px;
+    position: absolute;
+ 
+}
+.bbb{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top:530px;
+    left: 530px;
+    position: absolute;
+}
+.ccc{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 540px;
+    left: 540px;
+    position: absolute;
+}
+.ddd{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top: 550px;
+    left: 550px;
+    position: absolute;
+}
+.eee{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 560px;
+    left: 560px;
+    position: absolute;
+}
+.fff{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 570px;
+    left: 570px;
+    position: absolute;
+   
+}
+.ggg{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 580px;
+    left:580px;
+    position: absolute;
+}
+.hhh{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 590px;
+    left:590px;
+    position: absolute;
+}
+.iii{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 600px;
+    left:600px;
+    position: absolute;
+}
+.jjj{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:610px;
+    left: 610px;
+    position: absolute;
+}
+
+.kkk{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 620px;
+    left: 620px;
+    position: absolute;
+   
+}
+.lll{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top: 630px;
+    left: 630px;
+    position: absolute;
+}
+.mmm{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 640px;
+    left:640px;
+    position: absolute;
+}
+.nnn{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top:650px;
+    left: 650px;
+    position: absolute;
+}
+.ooo{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 660px;
+    left: 660px;
+    position: absolute;
+}
+
+
+
+
+
+
+.a{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.b{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top: 10px;
+    left: 10px;
+    position: absolute;
+}
+.c{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 20px;
+    left: 20px;
+    position: absolute;
+}
+.d{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top: 30px;
+    left: 30px;
+    position: absolute;
+}
+.e{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 40px;
+    left: 40px;
+    position: absolute;
+}
+.f{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.g{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 60px;
+    left: 60px;
+    position: absolute;
+}
+.h{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 70px;
+    left:70px;
+    position: absolute;
+}
+.i{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 80px;
+    left: 80px;
+    position: absolute;
+}
+.j{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:90px;
+    left: 90px;
+    position: absolute;
+}
+
+.k{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 100px;
+    left:100px;
+}
+.l{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top: 110px;
+    left: 110px;
+    position: absolute;
+}
+.m{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 120px;
+    left: 120px;
+    position: absolute;
+}
+.n{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top: 130px;
+    left: 130px;
+    position: absolute;
+}
+.o{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 140px;
+    left: 140px;
+    position: absolute;
+}
+.p{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+.q{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 160px;
+    left: 160px;
+    position: absolute;
+}
+.r{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 170px;
+    left:170px;
+    position: absolute;
+}
+.s{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 180px;
+    left: 180px;
+    position: absolute;
+}
+.t{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:190px;
+    left: 190px;
+    position: absolute;
+}
+
+.u{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+.v{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 210px;
+    left: 210px;
+    position: absolute;
+}
+.w{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 220px;
+    left:220px;
+    position: absolute;
+}
+.x{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 230px;
+    left: 230px;
+    position: absolute;
+}
+.y{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:240px;
+    left: 240px;
+    position: absolute;
+}
+.z{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(218, 247, 58);
+    top:250px;
+    left: 250px;
+    position: absolute;
+}
+
+
+
+
+
+.aa{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 260px;
+    left: 260px;
+}
+.bb{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top:270px;
+    left: 270px;
+    position: absolute;
+}
+.cc{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 280px;
+    left: 280px;
+    position: absolute;
+}
+.dd{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top: 290px;
+    left: 290px;
+    position: absolute;
+}
+.ee{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 300px;
+    left: 300px;
+    position: absolute;
+}
+.ff{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 310px;
+    left: 310px;
+}
+.gg{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 320px;
+    left: 320px;
+    position: absolute;
+}
+.hh{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 330px;
+    left:330px;
+    position: absolute;
+}
+.ii{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 340px;
+    left:340px;
+    position: absolute;
+}
+.jj{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:350px;
+    left: 350px;
+    position: absolute;
+}
+
+.kk{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 360px;
+    left: 360px;
+    position: absolute;
+   
+}
+.ll{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top: 370px;
+    left: 370px;
+    position: absolute;
+}
+.mm{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 380px;
+    left: 380px;
+    position: absolute;
+}
+.nn{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top:390px;
+    left: 390px;
+    position: absolute;
+}
+.oo{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 400px;
+    left: 400px;
+    position: absolute;
+}
+.pp{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 410px;
+    left: 410px;
+}
+.qq{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 420px;
+    left: 420px;
+    position: absolute;
+}
+.rr{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 430px;
+    left:430px;
+    position: absolute;
+}
+.ss{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 440px;
+    left: 440px;
+    position: absolute;
+}
+.tt{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:450px;
+    left: 450px;
+    position: absolute;
+}
+
+.uu{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    top: 460px;
+    left: 460px;
+}
+.vv{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 470px;
+    left: 470px;
+    position: absolute;
+}
+.ww{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 480px;
+    left:480px;
+    position: absolute;
+}
+.xx{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 490px;
+    left: 490px;
+    position: absolute;
+}
+.yy{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:500px;
+    left: 500px;
+    position: absolute;
+}
+.zz{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(218, 247, 58);
+    top:510px;
+    left: 510px;
+    position: absolute;
+}
+.aaa{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 520px;
+    left: 520px;
+    position: absolute;
+ 
+}
+.bbb{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top:530px;
+    left: 530px;
+    position: absolute;
+}
+.ccc{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 540px;
+    left: 540px;
+    position: absolute;
+}
+.ddd{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top: 550px;
+    left: 550px;
+    position: absolute;
+}
+.eee{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 560px;
+    left: 560px;
+    position: absolute;
+}
+.fff{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 225, 255);
+    top: 570px;
+    left: 570px;
+    position: absolute;
+   
+}
+.ggg{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 49);
+    top: 580px;
+    left:580px;
+    position: absolute;
+}
+.hhh{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(199, 211, 39);
+    top: 590px;
+    left:590px;
+    position: absolute;
+}
+.iii{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(42, 73, 28);
+    top: 600px;
+    left:600px;
+    position: absolute;
+}
+.jjj{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(255, 152, 238);
+    top:610px;
+    left: 610px;
+    position: absolute;
+}
+
+.kkk{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 620px;
+    left: 620px;
+    position: absolute;
+   
+}
+.lll{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    top: 630px;
+    left: 630px;
+    position: absolute;
+}
+.mmm{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(2, 0, 128);
+    top: 640px;
+    left:640px;
+    position: absolute;
+}
+.nnn{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(41, 128, 0);
+    top:650px;
+    left: 650px;
+    position: absolute;
+}
+.ooo{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(128, 0, 107);
+    top: 660px;
+    left: 660px;
+    position: absolute;
+}
+
+
+
+.maina{
+    height: 300px;
+    width: 300px;
+    background-color: #8B6244;
+    top: 0px;
+    left: 350px;
+    position: absolute;
+}
+
+.mainc{
+    height: 300px;
+    width: 300px;
+    background-color: #8B6244;
+    top: 0px;
+    left: 700px;
+    position: absolute;
+}
+
+.maind{
+    height: 300px;
+    width: 300px;
+    background-color: #8B6244;
+    top: 0px;
+    left: 1050px;
+    position: absolute;
+}
+
+
+
+
+
+.maind{
+    height: 300px;
+    width: 300px;
+    background-color: #8B6244;
+    top: 400px;
+    left: 0px;
+    position: absolute;
+}
+.mainf{
+    height: 300px;
+    width: 200px;
+    background-color: #8B6244;
+    top: 0px;
+    left: 1050px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
